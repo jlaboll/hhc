@@ -1,16 +1,9 @@
-# hedgehog_code_flutter_test
+# hhc_web
 
-Sampling Flutter for reactive Webpage Development
+Flutter/Dart reactive Webpage for Personal use.
 
-## Getting Started
+Package directory follows convention found [here](https://dart.dev/tools/pub/package-layout).
 
-This project is a starting point for a Flutter application.
+Built with IntelliJ Idea, personal license.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Requires Flutter 2.15.1 to 3.0.0, may be compatible with later versions. 
