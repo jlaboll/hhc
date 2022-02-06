@@ -6,4 +6,4 @@ Package directory follows convention found [here](https://dart.dev/tools/pub/pac
 
 Built with IntelliJ Idea, personal license.
 
-Requires Flutter 2.15.1 to 3.0.0, may be compatible with later versions. 
+Requires Flutter 2.10.x to 3.0.0, may be compatible with later versions. 
