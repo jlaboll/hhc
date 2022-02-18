@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../nav_item.dart';
 
 class NavItemState extends State<NavItem> {
