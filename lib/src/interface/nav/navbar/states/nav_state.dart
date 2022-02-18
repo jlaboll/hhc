@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hhc_web/src/nav/navbar/hhc_nav.dart';
+import 'package:hhc_web/src/interface/nav/navbar/nav.dart';
 
-class HHCNavState extends State<HHCNav> {
+class NavState extends State<Nav> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:hhc_web/src/nav/nav_list_item/nav_item.dart';
+import 'package:hhc_web/src/constants/strings/root_strings.dart';
+import 'package:hhc_web/src/constants/theme/colors.dart';
+import '../about/hhc_about.dart';
 import '../home/hhc_home.dart';
-import '../nav/navbar/hhc_nav.dart';
 
 class HHCApp extends StatelessWidget {
   const HHCApp({Key? key}) : super(key: key);
@@ -9,18 +10,16 @@ class HHCApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'HHC Dev',
+      title: title,
       initialRoute: '/',
       routes: {
         '/': (context) => const HHCHome(),
+        '/about': (context) => const HHCAbout(),
         //TODO(jlaboll): Mock routes and story site use
-        // '/about': (context) => const HHCAbout(),
         // '/activehosts': (context) => const HHCActiveHosts(),
         // '/login': (context) => const HHCLogin()
       },
-      theme: ThemeData(
-        primarySwatch: Colors.green,
-      ),
+      color: AppColors.white,
     );
   }
 }
