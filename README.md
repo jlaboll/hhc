@@ -1,8 +1,8 @@
-# hhc_web
+# hhc
 
-Flutter/Dart reactive Webpage for Personal use.
+Contains 3 applications on a shared skeleton
 
-Package directory follows convention found [here](https://dart.dev/tools/pub/package-layout).
+Directory follows convention found [here](https://dart.dev/tools/pub/package-layout).
 
 Built with IntelliJ Idea, personal license.
 
