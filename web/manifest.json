@@ -1,11 +1,11 @@
 {
-    "name": "hedgehog_code_flutter_test",
-    "short_name": "hedgehog_code_flutter_test",
+    "name": "hhc",
+    "short_name": "hhc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Sampling Flutter for reactive Webpage Development",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
